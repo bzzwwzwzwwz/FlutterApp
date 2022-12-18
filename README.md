@@ -1,4 +1,4 @@
-# Final App
+# Final Project
 
 A new Flutter project.
 
