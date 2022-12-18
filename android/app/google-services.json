@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "613453023445",
+    "project_id": "ujikom-application",
+    "storage_bucket": "ujikom-application.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:613453023445:android:f6e560ff884b16dbbbfa5c",
+        "android_client_info": {
+          "package_name": "com.example.ujikom_application"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "613453023445-o1m7nj2o1d72fr2kppnlp6s9dl2o6vct.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDPh1KJ94mA8pt6G03XH50lIV-rtwUMTZ8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "613453023445-o1m7nj2o1d72fr2kppnlp6s9dl2o6vct.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
